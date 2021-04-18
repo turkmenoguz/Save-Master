@@ -1,2 +1,2 @@
 # SaveMaster
-Our first game
+Kodluyoruz Game Jam için yapılmıştır.
